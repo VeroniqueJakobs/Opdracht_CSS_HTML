@@ -1,0 +1,63 @@
+
+
+
+body{
+    color:rgb(109, 3, 68);
+    text-align:left;
+    background-color: #D7D7D7;
+    padding:20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ nav{
+    color:black;
+    text-align: center;
+    }
+
+.nav { padding-left: 1.5em;
+}
+
+
+
+#h1{
+    color:purple;
+    text-align:center;
+}
+
+
+
+h2{
+    color:rgb(175, 84, 175);
+    }
+
+
+#green background {
+    background-color:green;
+}
+
+
+p{
+    color: black;
+    text-align:left;
+    line-height:1.5em;
+}
+
+
+li{ text-align:left;
+}
+
+a{
+    text-decoration:none;
+        }
+.link{color:royalblue;
+}
+        
+
+    #Chicky{
+    border-radius:50%;
+    }
+
+    .picture{
+        border-radius:10px;
+        border:1px solid black;
+              }
